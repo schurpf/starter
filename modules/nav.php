@@ -1,6 +1,6 @@
 <?php
 //Bootstrap  navigation
-require_once __DIR__.'/../vendor/twittem/wp-bootstrap-navwalker/wp_bootstrap_navwalker.php';
+require_once __DIR__.'/../vendorphp/twittem/wp-bootstrap-navwalker/wp_bootstrap_navwalker.php';
 remove_action( 'genesis_after_header', 'genesis_do_nav' );
 remove_action( 'genesis_after_header', 'genesis_do_subnav' );
 

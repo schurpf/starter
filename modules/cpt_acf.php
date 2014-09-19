@@ -2,7 +2,7 @@
 
 //Temporary add in CPT (needs to go in plugin later)
 // define( 'ACF_LITE', true );
-include_once __DIR__.'/../plugins/advanced-custom-fields/acf.php';
+include_once __DIR__.'/../vendorphp/advanced-custom-fields/acf.php';
 
 /*----------------------------------------------------------------------------------*/
 /*------------------ CPT ----------------*/
