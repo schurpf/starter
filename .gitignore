@@ -1,5 +1,5 @@
 /.sass-cache/
 .DS_Store
 vendor/
-plugins/
+vendorphp/
 node_modules/
