@@ -1,0 +1,12 @@
+{
+  "name": "Starter WordPress Theme based on Genesis",
+  "dependencies": {
+    "bootstrap-sass": "twbs/bootstrap-sass#3.2.*",
+    "ihover": "gudh/ihover#1.0.0",
+    "animate.css": "daneden/animate.css#3.1.0",
+    "jquery-viewport-checker": "dirkgroenen/jquery-viewport-checker#v1.2",
+    "hisrc": "teleject/hisrc#master",
+    "wp-bootstrap-navwalker": "twittem/wp-bootstrap-navwalker#2.0.4",
+    "sticky-kit": "leafo/sticky-kit#1.0.4"
+  }
+}
