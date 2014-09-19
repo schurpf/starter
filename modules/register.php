@@ -11,7 +11,7 @@ function sch_enque_scripts() {
     
     wp_register_script( 'sch_hisrc', get_stylesheet_directory_uri() . '/vendor/hisrc/hisrc.js', array( 'jquery' ), '', true );
     
-    wp_register_script( 'sch_viewportchecker', get_stylesheet_directory_uri() . '/vendor/jquery-viewport-checker/jquery.viewportchecker.js', array( 'jquery' ), '', true );
+    wp_register_script( 'sch_viewportchecker', get_stylesheet_directory_uri() . '/vendor/jquery-viewport-checker/viewportchecker.js', array( 'jquery' ), '', true );
 
     wp_register_script( 'sch_sticky', get_stylesheet_directory_uri() . '/vendor/sticky-kit/jquery.sticky-kit.min.js', array( 'jquery' ), '', true );
 
