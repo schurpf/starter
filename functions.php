@@ -34,3 +34,9 @@ include_once get_stylesheet_directory() . '/modules/snippets.php';
 
 // Notifications 
 include_once get_stylesheet_directory() . '/modules/notifications.php';
+
+// Helper functions 
+include_once get_stylesheet_directory() . '/modules/helper_functions.php';
+
+// Short codes
+include_once get_stylesheet_directory() . '/modules/shortcodes.php';
